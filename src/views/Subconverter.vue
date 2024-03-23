@@ -480,7 +480,7 @@ export default {
           "大象后端(hy2可能要打开跳过证书验证）": "https://sub.dxdyzh.tk",
           "佩奇后端": "https://api.nexconvert.com",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
-          "nameless13提供": "https://www.nameless13.com"，
+          "nameless13提供": "https://www.nameless13.com",
           "subconverter作者提供": "https://sub.xeton.dev",
           "sub-web作者提供": "https://api.wcc.best",
           "sub作者&lhie1提供": "https://api.dler.io",
