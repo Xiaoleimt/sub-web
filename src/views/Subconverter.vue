@@ -477,9 +477,11 @@ export default {
           "本地后端": "http://localhost:25500",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://api.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
+          "大象后端(hy2可能要打开跳过证书验证）": "https://sub.dxdyzh.tk",
+          "佩奇后端": "https://api.nexconvert.com",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
-          nameless13提供: "https://www.nameless13.com",
-          subconverter作者提供: "https://sub.xeton.dev",
+          "nameless13提供": "https://www.nameless13.com"，
+          "subconverter作者提供": "https://sub.xeton.dev",
           "sub-web作者提供": "https://api.wcc.best",
           "sub作者&lhie1提供": "https://api.dler.io",
         },
@@ -487,6 +489,8 @@ export default {
           {value: "http://localhost:25500"},
           {value: "https://api.v1.mk"},
           {value: "https://sub.d1.mk"},
+          {value: "https://sub.dxdyzh.tk"}, 
+          {value: "https://api.nexconvert.com"
           {value: "https://api.tsutsu.one"},
           {value: "https://www.nameless13.com"},
           {value: "https://sub.xeton.dev"},
